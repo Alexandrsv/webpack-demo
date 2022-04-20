@@ -1,3 +1,5 @@
 .hello {
-  color: red;
+  display: inline;
+  color: white;
+  background: url('./anim.gif') no-repeat;
 }
