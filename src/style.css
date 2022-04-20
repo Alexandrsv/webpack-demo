@@ -1,5 +1,14 @@
+@font-face {
+  font-family: 'Zen Kaku Gothic New';
+  src: url('./ZenKakuGothicNew-Regular.ttf') format('ttf');
+  font-weight: 600;
+  font-style: normal;
+}
+
 .hello {
   display: inline;
   color: white;
+  font-family: 'Zen Kaku Gothic New', sans-serif;
+  font-size: 50px;
   background: url('./anim.gif') no-repeat;
 }
